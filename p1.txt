@@ -1,2 +1,3 @@
 welcome
 modified in git hub
+altered in git bash
